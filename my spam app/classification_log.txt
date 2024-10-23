@@ -1,0 +1,11 @@
+2024-09-16 13:24:34 | Message: 'hey' | Prediction: Not Spam | Confidence: 97.94%
+2024-09-16 13:25:15 | Message: 'Congratulations! You have won a lottery of $1000!' | Prediction: Not Spam | Confidence: 51.99%
+2024-09-18 09:48:05 | Message: 'Congratulations! You've won a $1000 gift card. Call now to claim' | Prediction: Spam | Confidence: 80.32%
+2024-09-18 09:49:59 | Message: 'Your order has been shipped and will arrive soon.
+' | Prediction: Not Spam | Confidence: 78.03%
+2024-09-18 09:50:16 | Message: 'Win a brand new car! Click here to claim your priz...' | Prediction: Spam | Confidence: 68.88%
+2024-09-18 09:50:43 | Message: 'Get 50% off on all electronics this weekend only!' | Prediction: Not Spam | Confidence: 92.24%
+2024-09-18 09:50:59 | Message: 'hey eldad how are you doing please' | Prediction: Not Spam | Confidence: 95.54%
+2024-09-26 20:28:45 | Message: 'hi
+' | Prediction: Not Spam | Confidence: 95.85%
+2024-10-01 13:29:17 | Message: 'hi' | Prediction: Not Spam | Confidence: 95.85%
